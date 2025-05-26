@@ -4,9 +4,9 @@
 
 <p align="left">My name is Gabriel de Oliveira and i'm  from Brazil</p>
 
-<p align="left">Aspiring developer passionate about programming and seeking my first opportunity in the field.
-I’ve built personal projects to strengthen my skills and showcase my dedication to coding.
-Eager to contribute, learn, and grow in a collaborative environment.
+<p align="left">Aspiring developer passionate about programming and seeking my first opportunity in the field.  \n
+I’ve built personal projects to strengthen my skills and showcase my dedication to coding.  \n
+Eager to contribute, learn, and grow in a collaborative environment.  \n
 Open to sharing my GitHub/portfolio for review.</p>
 
 ###
