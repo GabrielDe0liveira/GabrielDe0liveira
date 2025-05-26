@@ -7,6 +7,7 @@
 <p align="left">I’ve built personal projects to strengthen my skills and showcase my dedication to coding.</p>
 <p align="left">Eager to contribute, learn, and grow in a collaborative environment.</p>
 <p align="left">Open to sharing my GitHub/portfolio for review.</p>
+
 ###
 
 <div align="center">
