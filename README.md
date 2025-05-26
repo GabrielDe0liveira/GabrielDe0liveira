@@ -3,7 +3,10 @@
 ###
 
 <p align="left">My name is Gabriel de Oliveira and i'm  from Brazil</p>
-
+<p align="left">Aspiring developer passionate about programming and seeking my first opportunity in the field.</p>
+<p align="left">I’ve built personal projects to strengthen my skills and showcase my dedication to coding.</p>
+<p align="left">Eager to contribute, learn, and grow in a collaborative environment.</p>
+<p align="left">Open to sharing my GitHub/portfolio for review.</p>
 ###
 
 <div align="center">
